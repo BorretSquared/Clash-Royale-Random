@@ -1,4 +1,4 @@
-# Clash-Royale-Random
+# Clash-Royale-Random-Players
 A Python Program Which Utilizes the Clash Royale API to Aquire Sudo Random Players + An Example Data Graph w/ Data Usage
 
 ## Pre-requisites
