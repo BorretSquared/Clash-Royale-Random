@@ -12,6 +12,7 @@ Install required libraries via ```pip install -r requirements.txt```
 
 # Additional Features 
 The ```getInfoViaTag.py``` file can be run seperately to get a player's trophies, levels, and tag (in order). This will take longer to run.
+
 The ```scatterPlot.py``` file can be run to use the Info in a graph
 
 
